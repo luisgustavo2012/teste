@@ -9,14 +9,20 @@
 
 <table border="1">
     <tr>
-        <td><img src="Sem título.jpg" alt="Imagem 1" width="500" height="200"></td>
-        <td><img src="HH.jpg" alt="Imagem 2" width="500" height="200"></td>
-        <td><img src="SHADOW.jpg" alt="Imagem 3" width="500" height="200"></td>
+        <td><img src="Sem título.jpg" alt="Imagem 1" width="200" height="200"></td>
+        <td><img src="HH.jpg" alt="Imagem 2" width="200" height="200"></td>
+        <td><img src="SHADOW.jpg" alt="Imagem 3" width="200" height="200"></td>
     </tr>
     <tr>
-        <td><img src="imagem4.jpg" alt="Imagem 4" width="100" height="100"></td>
-        <td><img src="imagem5.jpg" alt="Imagem 5" width="100" height="100"></td>
-        <td><img src="imagem6.jpg" alt="Imagem 6" width="100" height="100"></td>
+        <td>
+            <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sonicthehedgehog.com/pt-bt/&ved=2ahUKEwiS05bHvr-MAxUJqpUCHX3IGNgQFnoECEQQAQ&usg=AOvVaw0d0Qka2zwxt_ZriRBx5Msi" target="_blank" rel="noopener noreferrer">Veja o projeto</a>
+            </td>
+        <td>
+            <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sonic-the-hedgehog.fandom.com/pt/wiki/Knuckles_the_Echidna&ved=2ahUKEwjUzvvnvL-MAxXDqZUCHX4QH8wQFnoECFYQAQ&usg=AOvVaw0pN6ESViNgedmjarRJjp4R" target="_blank" rel="noopener noreferrer">Veja o projeto</a>
+            </td>
+        <td>
+            <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tkoc.fandom.com/pt-br/wiki/Shadow_the_Hedgehog&ved=2ahUKEwjSwNeAvr-MAxUcr5UCHXtAPNoQFnoECGIQAQ&usg=AOvVaw2DMrJfwa9fg03qx8fjIGf1" target="_blank" rel="noopener noreferrer">Veja o projeto</a>
+            </td>
     </tr>
 </table>
 
